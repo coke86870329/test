@@ -1,0 +1,17 @@
+.project
+.classpath
+.settings
+.idea/
+.gradle/
+freeline/
+freeline_core/
+freeline.py
+freeline_project_description.json
+local.properties
+
+*.iml
+
+**/.DS_Store
+**/build/
+**/gen/
+**/bin/
